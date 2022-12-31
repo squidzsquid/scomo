@@ -1,0 +1,9 @@
+db:
+  path: database.db
+  table: data
+excel:
+  path: spreadsheet.xlsx
+  sheet: Sheet1
+outlook:
+  recipient: forexampleegg@gmail.com
+  subject: TEST
